@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Wix+Madefor+Display:wght@500&display=swap');
+
+* {
+    font-size: 20px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Wix Madefor Display', sans-serif;
+}
+
+.foo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+button {
+    padding: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
